@@ -1,0 +1,1 @@
+print("Hello, World!") # 使用终端 python hello.py
